@@ -1,0 +1,13 @@
+@extends('layouts.frontend-master')
+@section('content')
+<main>
+    @include('frontend.inc.banner')
+    @include('frontend.inc.ordertrack')
+    @include('frontend.inc.deliverySection')
+    @include('frontend.inc.service')
+    @include('frontend.inc.calculator')
+    @include('frontend.inc.projectCounter')
+    @include('frontend.inc.testmonial')
+    @include('frontend.inc.frequentask')
+</main>
+@endsection

@@ -1,0 +1,1140 @@
+ /* ***Responsive media query*** */
+
+
+@media (max-width: 1400px){
+  /* banner section */
+  .banner_review_left {
+		background-color: #fff;
+    max-width: 356px;
+    border-radius: 20px;
+    padding: 35px 28px 28px;
+    position: absolute;
+    bottom: 90px;
+    left: 48%;
+	}
+	.banner_review_right {
+    background: #fff;
+    width: 208px;
+    border-radius: 20px;
+    position: absolute;
+    right: -76px;
+    bottom: 0px;
+    border: 1px solid #F4F4F4;
+	}
+	
+	.send__items__area .send__items{
+        margin: 0px 0px 40px;
+    }
+	
+}
+
+
+
+@media (max-width: 1399px){
+  button.btn.trackbtn {
+    font-size: 16px;
+  }
+  /* ======= banner section ============ */
+  .banner_content {
+    padding: 100px 0px 87px 60px;
+  }
+  /* ========== banner section ============ */
+
+  /* service section */
+  .services_area {
+    padding: 99px 37px;
+  }
+}
+
+
+@media (max-width: 1300px) {
+  .services_section {
+    background-image: none;
+    margin-bottom: 80px;
+  }
+}
+
+
+@media (max-width: 1023px){
+  .header_section {
+    display: none;
+  }
+}
+
+
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+  .footer-top-info h3 {
+      font-size: 33px;
+  }
+  .calculate-cost-area .cal-img-l img {
+      width: 100%;
+  }
+
+ /* .banner_review {*/
+	/*	display: flex;*/
+	/*	flex-wrap: wrap;*/
+	/*	justify-content: space-between;*/
+
+	/*}*/
+	/*.banner_review_left {*/
+	/*	background-color: #fff;*/
+	/*	max-width: 363px;*/
+	/*	border-radius: 20px;*/
+	/*	padding: 35px 28px 28px;*/
+	/*	position: absolute;*/
+	/*	bottom: 90px;*/
+	/*}*/
+	/*.banner_review_right {*/
+	/*	background: #fff;*/
+	/*	width: 208px;*/
+	/*	border-radius: 20px;*/
+	/*	position: absolute;*/
+	/*	right: -107px;*/
+	/*	bottom: 0px;*/
+	/*	border: 1px solid #F4F4F4*/
+	/*}*/
+	/*.banner_review_top {*/
+	/*	display: flex;*/
+	/*	flex-wrap: wrap;*/
+	/*	align-items: center;*/
+	/*	justify-content: space-between;*/
+	/*	padding-bottom: 15px;*/
+	/*}*/
+
+ /* .responsive_banner_review {*/
+ /*   display: none;*/
+ /* }*/
+
+}
+
+@media (max-width: 1199px){
+  /* ======= banner section ======= */
+  .banner_content h2 {
+    font-size: 40px;
+  }
+  /*=========  banner section =========== */
+
+  /* ======== order track ========= */
+  .row.track_custom_row {
+    justify-content: center;
+  }
+  .track_button {
+    margin-top: 20px;
+  }
+  .track_product_area {
+    padding: 57px 67px;
+  }
+  /* ========= order track ====== */
+  .service_item h4 {
+    font-size: 20px;
+  }
+
+
+  .b_admin_start {
+    margin: 10px 0px 8px;
+  }
+  
+    /* ======================
+  =====================parcel service================= */
+  .parcel_service_banner_section_inner {
+    padding: 115px 0px;
+    max-width: 522px;
+  }
+
+  .earn__step {
+    margin-bottom: 40px;
+  }
+
+  .earn__step__section {
+    background-color: rgba(232,51,48,0.03);
+    padding: 80px 0px;
+  }
+  
+  .earn__step__section .container {
+    max-width: 100%;
+  }
+
+  /* ======================
+  =====================parcel service================= */
+  
+  .bike__feature__heading {
+    padding: 0px 25px;
+  }
+
+}
+
+@media (min-width: 1024px){
+    .mobile-menu {
+        display: none;
+    }
+
+}
+
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) {
+form.f-subscribe .btn {
+  padding: 10px;
+  font-size: 16px;
+}
+.footer-widget ul.footer-info li a {
+  font-size: 15px;
+}
+
+.footer-top-info h3 {
+  font-size: 27px;
+}
+.btnf {
+  padding: 15px 18px;
+  font-size: 18px;
+}
+.calculate-cost-area .cal-img-l img {
+  height: auto;
+  width: 70%;
+}
+
+
+.parcel_service_content_inner {
+    padding: 120px 0px 0px 0px;
+  }
+
+
+
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) {
+  .footer-widget ul.footer-info li a {
+      font-size: 15px;
+      line-height: 30px;
+  }
+  .footer-widget p {
+      font-size: 15px;
+      line-height: 24px;
+  }
+  .flogo-img img {
+      width: 122px;
+  }
+  .footer-top-info h3 {
+      font-size: 34px;
+  }
+  .footer-top-info p {
+      font-size: 15px;
+      line-height: 24px;
+      margin-top: 10px;
+  }
+  .btnf {
+      padding: 15px 18px;
+      font-size: 18px;
+  }
+  .footer-top-section {
+      padding: 60px 90px 50px 70px;
+  }
+  .question .accordion-button {
+      font-size: 18px;
+      line-height: 25px;
+  }
+  .question .accordion-body {
+      font-size: 15px !important;
+      line-height: 25px !important;
+  }
+  .project-counter-area h3.counterup {
+      font-size: 40px;
+  }
+  .count-items>span {
+      font-size: 40px;
+  }
+  span.counter-details {
+      font-size: 19px;
+  }
+  .calculate-cost-area .cal-img-l {
+      position: relative;
+      left: 50%;
+      transform: translateX(-50%);
+      text-align: center;
+  }
+  /* .calculate-cost-area .cal-img-l img {
+      height: auto;
+      width: 50%;
+  } */
+  .section-title.pr-150 {
+    padding: 0;
+    text-align: center;
+}
+.create-account-wrapper.business-info input {
+  width: 300px;
+}
+
+/*.parcel_service_banner_section_inner {*/
+/*    padding: 100px 0px 105px;*/
+/*  }*/
+
+/*  .parcel_service_title {*/
+/*  margin: 35px 0px 26px;*/
+/*  }*/
+
+/*  .parcel_service_title {*/
+/*  margin: 35px 0px 26px;*/
+/*  }*/
+
+/*  .parcel_service_title h4 {*/
+/*  font-size: 24px;*/
+/*  }*/
+
+/*  .parcel_service_para h2 {*/
+/*  font-size: 30px;*/
+/*  font-weight: bold;*/
+/*  margin: 0px;*/
+/*  }*/
+
+/*  .parcel_service_content_inner {*/
+/*    padding: 90px 0px 0px 0px;*/
+/*  }*/
+  
+  
+  
+  
+  
+
+}
+
+
+@media (max-width: 1023px) {
+    .banner_section {
+        margin-top: 130px;
+    }
+    ul.sub_menu_list {
+        padding-left: 20px;
+    }
+    .menu_coverate_area_list_body {
+        margin: 32px 0px 20px 0px;
+        border: none;
+    }
+    .menu_coverate_area_list_body ul li {
+        border-left: 1px solid #dddddd4a;
+        border-right: 1px solid #dddddd4a;
+        border-bottom: 1px solid #dddddd4a;
+        border-radius: 10px;
+    }
+    .menu_coverate_area_list_body ul li:first-child {
+        border-top: 1px solid #dddddd4a;
+    }
+    .coverage_area_list_right p, .coverage_area_list_left p{
+        font-size: 16px;
+    }
+    .coverage_area_list_right {
+        padding: 15px 34px 15px 20px;
+    }
+    .coverage_area_list_left {
+        border-left: 1px solid #dddddd4a;
+        height: 100%;
+        padding: 15px 21px 15px 21px;
+        width: 80px;
+    }
+    .mobile_menu_list_title p {
+        color: red;
+        font-size: 19px;
+        font-weight: 700;
+        text-align: center;
+        margin: 15px 0px 28px 0px;
+        border-bottom: 1px solid #dddddd4a;
+        padding-bottom: 20px;
+    }
+    input#menu_area_search_id {
+        width: 100%;
+        border: 1px solid #dddddd4a;
+        padding: 14px;
+        border-radius: 10px;
+        outline: none;
+    }
+}
+
+@media (max-width: 991px){
+  .banner_content h2 {
+    font-size: 30px;
+  }
+  .banner_content {
+    padding: 20px 22px 20px;
+  }
+
+
+  .services_section {
+    margin-bottom: 60px;
+  }
+
+  .parcel_service_banner_section_inner {
+    max-width: 100%;
+    }
+
+    .terms_privacy_inner {
+    margin-top: 152px;
+    }
+
+    .play-icon {
+        margin-top: 38px;
+        left: 15%;
+    }
+
+    .terms_privacy_inner {
+        margin-top: 152px;
+    }
+    
+ 
+    
+    .parcel_p {
+    text-align: left;
+    }
+    
+      .parcel_service_title {
+        margin: 25px 0px;
+    }
+    
+    .parcel_service_para h1 {
+      line-height: normal;
+    }
+    
+    .send__item__title {
+      margin-top: 60px;
+    }
+    
+    .bike__feature__section {
+      padding: 90px 0px;
+    }
+    
+    .deliver__earn__section {
+      padding: 90px 0px;
+    }
+    
+    .deliver__earn__description {
+      margin: 58px 0 0;
+    }
+    
+      .deliver__image img {
+        width: 200%;
+    }
+     
+
+    .parcel_service_banner_section_inner {
+      max-width: 100%;
+      padding-top: 152px;
+    }
+    
+    .send__items__area {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-evenly;
+      align-items: center;
+      margin-top: 35px;
+    }
+    .courier__delivery__signup__section_des {
+      max-width: 100%;
+      margin-bottom: 30px;
+    }
+    
+    .courier__delivery__signup__section_des p {
+      font-size: 18px;
+    }
+    
+    .courier__delivery__signup__section_des h2 {
+      font-size: 42px;
+    }
+    
+    .earn__step {
+      padding: 0;
+      text-align: center;
+    }
+    
+    .earn__step__title p {
+      padding: 0px 20px;
+    }
+
+    .row.footer_row {
+      flex-direction: row-reverse;
+    }
+    .footer-widget {
+      margin-bottom: 40px;
+    }
+    .footer-widget h3 {
+      margin-bottom: 15px;
+    }
+    .footer_img img {
+      margin-top: 25px;
+    }
+
+}
+
+
+@media (max-width: 767px){
+
+  .parcel_service_banner_section {
+    background-position: right center;
+  }
+  .track_product_form input {
+    margin-top: 20px;
+  }
+  /* .banner_review_right {
+    width: 100%;
+    margin-top: 20px;
+  } */
+  .banner_content {
+    padding: 57px 58px;
+    padding-bottom:25px;
+  }
+  .banner_image img {
+    padding-right: 0;
+  }
+  /*.banner_review_left {*/
+  /*  max-width: 100% !important;*/
+  /*}*/
+  /*.banner_review_top {*/
+  /*  display: flex;*/
+  /*  flex-wrap: wrap;*/
+  /*  justify-content: space-between;*/
+  /*  margin-bottom: 20px;*/
+  /*  align-items: center;*/
+  /*}*/
+  
+  
+  /* parcel service start */
+
+  
+.send__items__area {
+  justify-content: space-around;
+}
+.send__item__title h2 {
+  font-size: 30px;
+  font-weight: bold;
+}
+
+
+/* parcel service end */
+
+
+/* --------------- 03/1/22 start----------- */
+
+.parcel_service_banner_section_inner {
+  padding: 142px 0px 80px;
+}
+
+.parcel_service_title {
+  margin: 10px 0px 15px;
+}
+
+
+.parcel_service_para h1 {
+  font-size: 28px;
+}
+
+
+.parcel_service_para p {
+  font-size: 21px;
+}
+
+.bike__feature {
+  padding-bottom: 58px;
+}
+
+.bike__feature.three{
+  padding-bottom: 0px;
+}
+
+.bike__feature__heading h2 {
+  font-size: 30px;
+}
+
+.bike__feature__heading p {
+  font-size: 17px;
+}
+
+.courier__service__section {
+  padding-bottom: 85px;
+}
+
+.standard__express__title h1 {
+  font-size: 44px;
+}
+
+.standard__express__services h3 {
+  font-weight: 500;
+}
+
+.standard__express__services p {
+  padding: 14px 0px 0px;
+}
+
+.standard__express__services {
+  margin-top: 80px;
+}
+
+.standard__express__services img {
+  margin-bottom: 40px;
+}
+
+.standard__express__services h3 {
+  margin-bottom: 0px;
+}
+
+.earn__step__title {
+  text-align: center;
+}
+
+.earn__step__title p {
+  padding: 0px;
+}
+
+.courier__delivery__signup__section__inner {
+  padding: 65px 0px;
+}
+
+.courier__delivery__signup__section_des {
+  margin-bottom: 15px;
+}
+
+.courier__delivery__signup__section_des p {
+  font-size: 18px;
+}
+
+
+/* --------------- 03/1/22 end----------- */
+
+/* ----------------05/1/22 start -------- */
+.accordion h1 {
+  margin-bottom: 50px;
+  font-size: 34px;
+}
+
+.standard__express__title h1 {
+  font-size: 40px;
+}
+
+.courier__service__section {
+  padding-bottom: 50px;
+}
+.bike__image {
+  text-align: center;
+}
+
+/* -----------------05/03/22 end---------- */
+  
+  
+}
+
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) {
+  .footer-widget ul.footer-info li a {
+      font-size: 15px;
+      line-height: 34px;
+  }
+  .footer-widget p {
+      font-size: 15px;
+      line-height: 25px;
+  }
+  .footer-top-info h3 {
+      font-size: 23px;
+  }
+  .footer-top-info p {
+      font-size: 15px;
+      line-height: 24px;
+      margin-top: 10px;
+  }
+  .btnf {
+      padding: 15px 18px;
+      font-size: 18px;
+  }
+  .footer-top-section {
+      padding: 60px 90px 50px 70px;
+  }
+  .question .accordion-button {
+      font-size: 18px;
+      line-height: 25px;
+  }
+  .question .accordion-body {
+      font-size: 15px !important;
+      line-height: 25px !important;
+  }
+  .project-counter-area h3.counterup {
+      font-size: 35px;
+  }
+  .count-items>span {
+      font-size: 35px;
+  }
+  span.counter-details {
+      font-size: 19px;
+  }
+  .project-counter-wrap {
+      padding: 80px 0;
+  }
+  .calculate-cost-area .cal-img-l {
+      position: relative;
+      left: 50%;
+      transform: translateX(-50%);
+      text-align: center;
+  }
+  .calculate-cost-area .cal-img-l img {
+      height: auto;
+      width: 50%;
+  }
+  .section-title.pr-150 {
+      padding-right: 0;
+      text-align: center;
+  }
+  .create-account-wrapper {
+    padding: 140px 0;
+}
+.create-account-wrapper.business-info input {
+  width: 100%;
+}
+.business-info .reset-password-form {
+  padding: 0 20px;
+}
+
+
+.parcel_service_banner_section_inner {
+    padding: 120px 0px 40px;
+    max-width: 100%;
+  }
+
+  .parcel_service_title {
+    margin: 10px 0px 20px;
+    padding: 0;
+  }
+
+  .parcel_service_para h2 {
+    font-size: 25px;
+    /* margin: 0px; */
+  }
+
+  .parcel_service_content_inner {
+    padding: 75px 0px 0px 0px;
+  }
+  
+   
+.deliver__image img {
+  width: 100%;
+}
+
+ 
+
+.parcel_service_title {
+  margin: 10px 0px 20px;
+  padding: 0;
+}
+
+.parcel_service_para h2 {
+  font-size: 25px;
+  font-weight: bold;
+}
+
+.earn__step__section, .deliver__earn__section{
+  padding: 40px 0px;
+}
+
+.earn__step {
+  padding: 0 75px;
+}
+
+
+
+}
+/* Small devices (landscape phones, 576px and up) */
+@media (max-width: 575.98px) {
+
+  .footer-widget h3 {
+      font-size: 18px;
+      margin-bottom: 13px;
+  }
+  .footer-widget ul.footer-info li a {
+      font-size: 15px;
+      line-height: 30px;
+  }
+
+  .footer-widget p {
+      font-size: 15px;
+  }
+  .footer-widget ul.footer-info li a {
+      font-size: 15px;
+      line-height: 30px;
+  }
+
+  .footer-widget p {
+      font-size: 15px;
+  }
+  form.f-subscribe .btn {
+      padding: 10px 12px;
+      font-size: 17px;
+  }
+
+
+  .footer-top-info h3 {
+      font-size: 23px;
+  }
+  .footer-top-info p {
+      font-size: 15px;
+      line-height: 24px;
+      margin-top: 10px;
+  }
+  .btnf {
+      padding: 15px 18px;
+      font-size: 18px;
+  }
+  .footer-top-section {
+    padding: 53px 26px 40px 26px;
+  }
+  .question .accordion-button {
+      font-size: 16px;
+      line-height: 23px;
+  }
+  .question .accordion-body {
+      font-size: 14px !important;
+      line-height: 25px !important;
+  }
+  .project-counter-area h3.counterup {
+      font-size: 33px;
+  }
+  .count-items>span {
+      font-size: 33px;
+  }
+  span.counter-details {
+      font-size: 19px;
+  }
+  .project-counter-wrap {
+      padding: 35px 0 67px;
+  }
+  .calculate-cost-area .cal-img-l {
+      position: relative;
+      left: 50%;
+      transform: translateX(-50%);
+      text-align: center;
+  }
+  .calculate-cost-area .cal-img-l img {
+      height: auto;
+      width: 100%;
+  }
+  .calculate-cost-area .form-label {
+      margin-bottom: 0;
+  }
+  .calculate-cost-area button.btn.calculate {
+      font-size: 18px;
+  }
+  .section-title.pr-150 {
+      padding-right: 0;
+      text-align: center;
+  }
+  .create-account-wrapper > a {
+    width: inherit;
+}
+.create-account-wrapper h4 {
+  font-size: 23px;
+  margin-bottom: 15px;
+}
+.create-account-wrapper {
+  padding: 140px 0;
+}
+span.otp-verify-number {
+  font-size: 15px;
+  line-height: 22px;
+}
+span.have_account {
+  font-size: 15px;
+}
+
+.create-account-wrapper.reset-password button {
+  width: inherit;
+  margin-top: 15px;
+}
+.create-account-wrapper.business-info input {
+  width: 100%;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.business-info .reset-password-form {
+  padding: 0 20px;
+}
+
+.banner_content input::placeholder {
+  font-size: 14px;
+}
+.btn {
+  font-size: 16px;
+  padding: 12px 22px;
+}
+.banner_content p {
+  font-size: 14px;
+}
+.service_item {
+  padding: 26px 22px;
+}
+.service_item p {
+  font-size: 14px;
+}
+
+.track_product_header h2 {
+  font-size: 20px;
+}
+.track_product_header p {
+  font-size: 15px;
+}
+button.btn.trackbtn {
+  font-size: 15px;
+  padding: 20px 9px;
+}
+.banner_content input {
+  padding: 15px 9px;
+}
+.banner_content {
+  padding: 57px 16px;
+}
+.btn {
+  font-size: 16px;
+  padding: 12px 35px;
+}
+.track_product_area {
+  padding: 57px 31px;
+}
+.section-title h3 {
+  font-size: 30px;
+}
+
+/* services section */
+
+.services_area {
+  padding: 76px 28px;
+}
+
+.service_item h4 {
+  font-size: 18px;
+}
+.cal-items-left.lst-cal-item {
+    margin-top: 22px;
+}
+
+.parcel_service_content_inner {
+    padding: 60px 0px 0px 0px;
+}
+
+/* services section */
+
+
+.deliver__image img {
+  width: 100%;
+}
+
+.earn__step {
+  padding: 0 20px;
+}
+
+
+/* -----------03/01/22------------ */
+
+.parcel_service_title {
+  margin: 10px 0px 15px;
+}
+
+.parcel_service_title h4 {
+  font-size: 21px;
+}
+
+.parcel_service_para h2 {
+  font-size: 25px;
+}
+
+.parcel_service_para p {
+  font-size: 15px;
+}
+
+.parcel_service_banner_section_inner {
+  padding: 133px 0px 75px;
+}
+
+.courier__delivery__signup__section__inner {
+  text-align: center;
+}
+
+.courier__delivery__signup__section_des h2 {
+  font-size: 25px;
+    line-height: 40px;
+}
+
+.courier__service__section {
+  padding-bottom: 40px;
+}
+
+.standard__express__title h1 {
+  font-size: 29px;
+}
+
+.section__contact__us h2 {
+  font-size: 25px;
+}
+
+.earn__step__title h2 {
+  margin-top: 30px;
+  font-size: 30px;
+}
+.section__contact__us {
+  text-align: center;
+}
+.section__contact__us__img {
+  text-align: center;
+}
+.courierpage__contact__us__section {
+  margin: 42px 0 -32px;
+}
+.courier__delivery__signup__section_btn {
+  margin: auto;
+}
+.bike__feature__heading h2 {
+  font-size: 25px;
+}
+/* -----------03/01/22------------ */
+
+
+
+}
+
+/* Extra small devices (portrait phones, less than 576px) */
+
+@media (max-width: 574.98px) {
+  .banner_review_top {
+    margin-bottom: 5px;
+  }
+  .play-icon {
+    left: 0;
+  }
+}
+
+
+
+@media screen and (max-width: 424px) {
+ 
+  .parcel_service_title {
+      margin: 10px 0px 5px;
+  }
+
+  
+  .bike__feature__section {
+    padding: 70px 0px;
+  }
+
+  .bike__feature__heading {
+    padding: 0px 36px;
+  }
+
+  .bike__feature__heading p {
+    font-size: 15px;
+  }
+
+  .earn__step__section {
+    padding: 50px 0px;
+  }
+
+  .earn__step__title p {
+    font-size: 19px;
+    line-height: 27px;
+  }
+
+  .earn__step__title h3 {
+    font-size: 32px;
+    margin-bottom: 20px;
+    line-height: 44px;
+  }
+
+    .courier__delivery__signup__section__inner {
+      padding: 50px 0px;
+  }
+
+  .courier__delivery__signup__section_des h2 {
+    font-size: 25px;
+    line-height: 42px;
+  }
+
+  .standard__express__title {
+    padding-top: 50px;
+    border-top: 1px solid lightgrey;
+    text-align: center;
+  }
+
+}
+
+
+
+@media all and (min-width:320px) and (max-width: 480.98px) {
+  .footer-top-info h3 {
+      font-size: 16px;
+  }
+  .footer-top-info p {
+      font-size: 13px;
+      line-height: 20px;
+  }
+  .btnf {
+      padding: 15px 18px;
+      font-size: 15px;
+  }
+  .r-a-details h4 {
+      font-size: 18px;
+  }
+  .r-a-details p {
+      font-size: 15px;
+  }
+
+  button.btn.trackbtn {
+    font-size: 15px;
+    padding: 9px 14px;
+  }
+
+  .banner_content {
+    padding: 57px 15px;
+  }
+  .banner_content h2 {
+    font-size: 25px;
+  }
+  .banner_content input {
+    padding: 12px 7px;
+    max-width: 182px;
+  }
+  .section-title h3 {
+    font-size: 24px;
+  }
+  .section-title p {
+    font-size: 13px;
+  }
+
+   
+   
+   .parcel_service_banner_section_inner {
+    padding: 152px 0px 56px;
+    max-width: 100%;
+  }
+
+  .parcel_service_title h4 {
+    font-size: 15px;
+    font-weight: 500;
+    position: relative;
+    padding-bottom: 5px;
+    margin: 0px;
+  }
+  
+  .parcel_service_para h1 {
+    font-size: 30px;
+    font-weight: bold;
+    line-height: 36px;
+    margin-bottom: 10px;
+  }
+  
+  .parcel_service_content_inner {
+    padding: 40px 0px 0px 0px;
+  }
+  
+  .parcel_service_para.one {
+    padding-bottom: 25px;
+  }
+  
+  .parcel_service_content_inner .btn {
+    margin-top: 25px;
+  }
+    
+
+}
+
